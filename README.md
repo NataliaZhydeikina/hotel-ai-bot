@@ -1,4 +1,4 @@
-# WinWin Hotel AI Assistant
+# Hotel AI Assistant
 
 A full-stack starter for turning natural-language hotel requests into a structured search. The FastAPI backend uses OpenAI's `gpt-4o` structured-output support to extract destinations, dates, guests, and must-have/nice-to-have filters. The React interface shows the evolving search state and lets you review/apply the filters.
 
