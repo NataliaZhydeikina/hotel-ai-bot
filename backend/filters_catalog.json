@@ -1,0 +1,70 @@
+{
+  "filters": [
+    {
+      "id": "breakfast_included",
+      "name": "Breakfast included",
+      "description": "Breakfast is included in the room price or provided at no extra charge.",
+      "category": "meal"
+    },
+    {
+      "id": "free_cancellation",
+      "name": "Free cancellation",
+      "description": "Booking can be cancelled without a fee before the stated deadline.",
+      "category": "booking"
+    },
+    {
+      "id": "parking",
+      "name": "Parking",
+      "description": "On-site or included parking is available for guests.",
+      "category": "amenity"
+    },
+    {
+      "id": "pool",
+      "name": "Swimming pool",
+      "description": "The property has a swimming pool available to guests.",
+      "category": "amenity"
+    },
+    {
+      "id": "spa",
+      "name": "Spa",
+      "description": "The property has spa facilities or spa services.",
+      "category": "amenity"
+    },
+    {
+      "id": "pet_friendly",
+      "name": "Pet friendly",
+      "description": "Pets are allowed at the property, possibly subject to a fee.",
+      "category": "policy"
+    },
+    {
+      "id": "air_conditioning",
+      "name": "Air conditioning",
+      "description": "Guest rooms have air conditioning.",
+      "category": "amenity"
+    },
+    {
+      "id": "wifi",
+      "name": "Free Wi-Fi",
+      "description": "Complimentary wireless internet access is available.",
+      "category": "amenity"
+    },
+    {
+      "id": "family_rooms",
+      "name": "Family rooms",
+      "description": "Family-friendly rooms or room configurations for groups with children.",
+      "category": "room"
+    },
+    {
+      "id": "beachfront",
+      "name": "Beachfront",
+      "description": "The property is directly on or immediately adjacent to the beach.",
+      "category": "location"
+    },
+    {
+      "id": "central_location",
+      "name": "Central location",
+      "description": "The property is in or close to the city center and major attractions.",
+      "category": "location"
+    }
+  ]
+}
